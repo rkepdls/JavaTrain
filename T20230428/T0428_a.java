@@ -5,8 +5,8 @@ class T0428_a {
 	
 	public static void main(String[] args) {
 		//사람 클래스(ver.1) 사용 예
-		HumanV1 gildong = new HumanV1();
-		HumanV1 chulsu = new HumanV1();
+		Human gildong = new Human();
+		Human chulsu = new Human();
 				
 		gildong.name = "길동";
 		gildong.height = 170;

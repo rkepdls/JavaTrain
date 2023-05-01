@@ -1,6 +1,6 @@
 package T20230428;
 
-public class HumanV1 {
+public class Human {
 	String name;
 	int height;
 	int weight;

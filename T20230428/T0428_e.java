@@ -14,7 +14,7 @@ public class T0428_e {
 		Coordinate p = new Coordinate(x, y);
 		System.out.println("p = (" + p.getX() + ", " + p.getY() + ")");
 		Coordinate q = p;
-		q.setX(9.9,  9.9);
+		q.setX(9.9, 9.9);
 		System.out.println("p = (" + p.getX() + ", " + p.getY() + ")");
 		System.out.println("q = (" + p.getX() + ", " + p.getY() + ")");
 	}
