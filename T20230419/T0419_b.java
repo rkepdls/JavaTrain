@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class T0419_b {
 
 	public static void main(String[] args) {
-		Random rand = new Random();
+		ComputerPlayer rand = new ComputerPlayer();
 		Scanner stdIn = new Scanner(System.in);
 		
 		final int MAX_NO = 6;       // 최대 입력 횟수

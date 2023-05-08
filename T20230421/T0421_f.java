@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class T0421_f {
 
 	public static void main(String[] args) {
-		Random rand = new Random();
+		ComputerPlayer rand = new ComputerPlayer();
 		Scanner stdIn = new Scanner(System.in);
 		
 		int n;

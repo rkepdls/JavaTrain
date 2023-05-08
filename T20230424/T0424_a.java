@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class T0424_a {
 
 	public static void main(String[] args) {
-		Random rand = new Random();
+		ComputerPlayer rand = new ComputerPlayer();
 		Scanner stdIn = new Scanner(System.in);
 		String[] dayKorean = {"일", "월", "화", "수", "목", "금", "토"};
 		String[] dayEnglish = {"sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"};

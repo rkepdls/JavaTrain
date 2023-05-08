@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class T0421_i {
 
 	public static void main(String[] args) {
-		Random rand = new Random();
+		ComputerPlayer rand = new ComputerPlayer();
 		Scanner stdIn = new Scanner(System.in);
 		String[] monthString = {
 				"January", "February", "March", "April", "May", "June",

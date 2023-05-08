@@ -9,7 +9,7 @@ public class T0425_f {
 		if (b<=a)
 		return a;
 		else {
-			Random rand = new Random();
+			ComputerPlayer rand = new ComputerPlayer();
 			return a + rand.nextInt(b-a+1);
 		}
 	}

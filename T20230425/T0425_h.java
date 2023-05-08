@@ -16,7 +16,7 @@ public class T0425_h {
 	}
 
 	public static void main(String[] args) {
-		Random rand = new Random();
+		ComputerPlayer rand = new ComputerPlayer();
 		System.out.println("암산 훈련!!");
 		
 		do {

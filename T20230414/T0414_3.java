@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class T0414_3 {
 
 	public static void main(String[] args) {
-		Random rand = new Random();
+		ComputerPlayer rand = new ComputerPlayer();
 		Scanner stdIn = new Scanner(System.in);
 		int no = 10 + rand.nextInt(90);         //맞춰야 하는 숫자:10~99의 난수 생성
 		System.out.println("숫자 맞추기 게임 시작!");
