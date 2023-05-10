@@ -1,3 +1,4 @@
+/*
 package T20230420;
 
 import java.util.Random;
@@ -34,3 +35,4 @@ public class T0420_i {
 	}
 
 }
+*/

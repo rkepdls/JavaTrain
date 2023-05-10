@@ -1,3 +1,4 @@
+/*
 package T20230414;
 
 import java.util.Random;
@@ -29,3 +30,4 @@ public class T0414_3 {
 
 }
 //완료. +90인데 100은 포함 안되는 이유?
+*/

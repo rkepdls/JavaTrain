@@ -1,3 +1,4 @@
+/*
 package T20230419;
 
 import java.util.Random;
@@ -36,3 +37,4 @@ public class T0419_b {
 
 }
 //완료 
+*/

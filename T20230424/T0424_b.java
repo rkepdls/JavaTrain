@@ -3,6 +3,8 @@ package T20230424;
 import java.util.Random;
 import java.util.Scanner;
 
+import T20230508_2.ComputerPlayer;
+
 public class T0424_b {
 
 	public static void main(String[] args) {
